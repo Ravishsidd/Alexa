@@ -1,6 +1,6 @@
 # Alexa
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Building your own Alexa is better than buying one. 
+Building your own Alexa(Artificial Assistant) is better than buying one. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Installation
 (run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech pip install speechRecognition
